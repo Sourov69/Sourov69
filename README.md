@@ -1,23 +1,46 @@
 # Hi there, I'm Sourov! 👋
 
-Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, and Python, along with Business Understanding,Data Science & Machine Learning  skills acquired , I aim to combine technical expertise with business acumen to deliver impactful solutions.
+Thank you so much for coming to my github profile. I love to introduce myself as a Data Professional, and this GitHub account is totally dedicated to my data journey : learning Data Analytics, Data Science & AI, and working with real-world data projects (Data Collection, Data Cleaning, Data Analysis, Data Visualization & Dashboarding, Predictive Analytics using Machine Learning & AI, and case studies).
 
-## About Me:
+Working with data is the thing which I love and enjoy the most, and it’s my passion. That is why I shifted my career from Civil Engineering to Data Analytics, Data Science & AI. I really love and enjoy my work.
 
-- 💼 I’m currently working as a Data Analyst
-- 🔭 I’m working on **Machine Learning Projects**
-- 🌱 I’m continuously learning how to Apply **AI and Advance Statistical concept** to increase my analytical power
-- 🎓 Bachelor of Engineering (CE)
+## I am experienced with:
 
-## Tools & Languages:
+- Collecting data from any source (databases, APIs, JSON, web, internet, social media, PDFs, CSV, Excel)
 
-- ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-- ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-- ![SQL](https://img.shields.io/badge/SQL-FF6C37?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)                             
+- Cleaning & transforming messy, unstructured, and large datasets to make them clean, structured, and analysis-ready
 
-## Let's Connect!:
+- Data modeling & normalization (cardinality relationships, dimension tables, fact tables, star schema, snowflake schema)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourov-talukder-1a5320279/) 
+- Data visualization and dashboards to understand data patterns, key points & insights, and to tell stories to non-technical people or stakeholders
 
-Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
+- Exploratory & statistical data analysis using Python, Jupyter Notebook, NumPy, Pandas, Matplotlib, Seaborn
+
+- Predictive analytics and forecasting using Machine Learning and AI
+
+## Tools & Languages I Use:
+
+- **`Excel`**: Spreadsheet management, Power Query (ETL), Pivot Tables, Data Analysis, Charts & Visualization  
+
+- **`Power BI`**: Power Query, Data Modeling, DAX, Interactive Dashboards, Data Visualization  
+
+- **`Python`**: Jupyter Notebook, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Requests, BeautifulSoup, Scrapy, Playwright, Selenium  
+
+- **`SQL`**: Writing queries, Data extraction, Data manipulation (SELECT, JOIN, GROUP BY), Data cleaning, Aggregation, Database management  
+
+- **`AI`**: Personal assistant, Task automation, Faster and more productive work  
+                          
+
+I love my work. There is no end to learning in this field. Every day, I am learning, upskilling, and exploring new data, new domains, new challenges, and new tools and technologies and I really enjoy it.
+
+I use AI every day to make my work faster and to automate repetitive tasks that I previously had to do manually.
+
+I am very proud to be part of this data industry. I want to contribute to this field, collaborate with more data legends, and help businesses and companies make their important decisions based on data.
+
+<div align="center">
+
+**Success never has any shortcuts**  
+**Hard work and consistency are the keys**  
+**Passion and love for your work leads to success**
+
+</div>
